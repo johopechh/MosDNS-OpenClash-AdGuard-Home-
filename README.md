@@ -1,4 +1,4 @@
-# MosDNS+OpenClash+AdGuard-Home
+# MosDNS分流+OpenClash代理+AdGuard-Home广告过滤
 # 编辑时间 2025年3月23日
 # MosDNS
 
