@@ -39,3 +39,11 @@
 
 
 
+# 这个是我自娱自乐的设置，有大佬看完后有问题可以在Issues指点一二最好啦
+
+# 附上几个DNS泄露测试网站
+## https://browserleaks.com/dns
+## https://whoer.net/zh
+## https://ipleak.net/
+
+
