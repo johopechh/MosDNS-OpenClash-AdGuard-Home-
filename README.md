@@ -2,5 +2,4 @@
 
 
 # MosDNS
-
-![images](MosDNS1.png)
+images/MosDNS1.png
