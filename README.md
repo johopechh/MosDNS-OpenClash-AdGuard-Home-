@@ -1,5 +1,5 @@
 # MosDNS+OpenClash+AdGuard-Home
-
+# 编辑时间 2025年3月23日
 # MosDNS
 
 > ![MosDNS](images/MosDNS1.png)
@@ -40,7 +40,6 @@
 
 
 # 这个是我自娱自乐的设置，有大佬看完后有问题可以在Issues指点一二最好啦
-
 # 附上几个DNS泄露测试网站
 ## https://browserleaks.com/dns
 ## https://whoer.net/zh
