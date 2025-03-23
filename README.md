@@ -2,4 +2,4 @@
 
 
 # MosDNS
-images/MosDNS1.png
+![mosdns](image\MosDNS1.png)
