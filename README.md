@@ -2,7 +2,7 @@
 # 编辑时间 2025年3月23日
 # MosDNS
 
->![MosDNS](images/MosDN11.png)
+>![MosDNS](images/MosDNS11.png)
 > 
 > ### **自定义国内DNS可以不选，在clash中勾选了追加默认上游dns**
 > 
